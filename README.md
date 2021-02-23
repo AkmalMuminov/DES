@@ -1,1 +1,1 @@
-# DES
+# Simplified DES algorithm implmentation
